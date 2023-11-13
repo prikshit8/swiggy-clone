@@ -13,4 +13,8 @@
 - Compress
 - Consistent Hashing
 - Code Splitting
-- Differential Bundling
+- Differential Bundling - support older browsers
+- Diagnostics
+- Error Handling
+- HTTPs
+- Different dev and prod bundles
